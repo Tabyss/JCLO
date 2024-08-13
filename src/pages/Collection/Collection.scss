@@ -1,0 +1,12 @@
+.collect{
+    width: 100vw;
+    height: 100%;
+    &-title{
+        margin: 150px 0 100px;
+        display: flex;
+        justify-content: center;
+        h1{
+            font-size: 72px;
+        }
+    }
+}

@@ -1,25 +1,77 @@
-@font-face {font-family:'futura'; font-weight: 500; font-style: normal; src: url('./assets/font/FuturaPTDemiOblique.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 900; font-style: normal; src: url('./assets/font/FuturaPTExtraBoldOblique.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 900; font-style: normal; src: url('./assets/font/FuturaPTExtraBold.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 700; font-style: normal; src: url('./assets/font/FuturaPTHeavyOblique.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 700; font-style: normal; src: url('./assets/font/FuturaPTHeavy.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 400; font-style: normal; src: url('./assets/font/FuturaPTMediumOblique.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 400; font-style: normal; src: url('./assets/font/FuturaPTMedium.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 200; font-style: normal; src: url('./assets/font/FuturaPTLightOblique.otf') format('truetype');}
-@font-face {font-family:'futura'; font-weight: 200; font-style: normal; src: url('./assets/font/FuturaPTLight.otf') format('truetype');}
-
+@font-face {
+    font-family: "futura";
+    font-weight: 500;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTDemiOblique.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 900;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTExtraBoldOblique.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 900;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTExtraBold.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 700;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTHeavyOblique.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 700;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTHeavy.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTMediumOblique.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTMedium.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 200;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTLightOblique.otf") format("truetype");
+}
+@font-face {
+    font-family: "futura";
+    font-weight: 200;
+    font-style: normal;
+    src: url("./assets/font/FuturaPTLight.otf") format("truetype");
+}
 
 :root {
-  font-family: 'futura', Helvetica, Arial, sans-serif;
+    font-family: "futura", Helvetica, Arial, sans-serif;
+    --C-1: #02050a;
+    --C-2: #0b1f3d;
+    --C-3: #dac0a3;
+    --C-4: #eadbc8;
+    --C-5: #fefaf6;
 }
 
 ::-webkit-scrollbar {
-  display: none;
+    display: none;
 }
 
-*{
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
+body{
+    background-color: var(--C-5);
+}

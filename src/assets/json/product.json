@@ -1,0 +1,296 @@
+[
+    {
+        "name": "Casual Blue Denim Jacket",
+        "description": "A comfortable and stylish blue denim jacket perfect for everyday wear.",
+        "price": 49.99,
+        "keyword": ["denim", "jacket", "casual", "blue"]
+    },
+    {
+        "name": "White Cotton T-Shirt",
+        "description": "A basic white t-shirt made from soft cotton fabric.",
+        "price": 14.99,
+        "keyword": ["t-shirt", "cotton", "white"]
+    },
+    {
+        "name": "Blue Casual T-Shirt",
+        "description": "A simple and casual blue t-shirt suitable for any occasion.",
+        "price": 19.99,
+        "keyword": ["casual", "t-shirt", "blue"]
+    },
+    {
+        "name": "Denim Jacket with Cotton Lining",
+        "description": "A sturdy denim jacket with a comfortable cotton lining for added warmth.",
+        "price": 59.99,
+        "keyword": ["denim", "jacket", "cotton"]
+    },
+    {
+        "name": "White Denim Jeans",
+        "description": "Stylish white denim jeans that pair well with any top.",
+        "price": 39.99,
+        "keyword": ["denim", "white"]
+    },
+    {
+        "name": "Casual Cotton Hoodie",
+        "description": "A cozy cotton hoodie perfect for casual wear.",
+        "price": 29.99,
+        "keyword": ["casual", "cotton"]
+    },
+    {
+        "name": "Blue Denim Overalls",
+        "description": "Comfortable blue denim overalls for a trendy look.",
+        "price": 44.99,
+        "keyword": ["denim", "blue"]
+    },
+    {
+        "name": "White Casual Polo Shirt",
+        "description": "A versatile white polo shirt for casual or semi-formal settings.",
+        "price": 24.99,
+        "keyword": ["casual", "white"]
+    },
+    {
+        "name": "Denim Skirt",
+        "description": "A classic denim skirt that is both fashionable and comfortable.",
+        "price": 34.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Blue T-Shirt with Print",
+        "description": "A trendy blue t-shirt with a stylish print design.",
+        "price": 21.99,
+        "keyword": ["t-shirt", "blue"]
+    },
+    {
+        "name": "White Denim Jacket",
+        "description": "A modern white denim jacket with a clean and crisp look.",
+        "price": 54.99,
+        "keyword": ["denim", "jacket", "white"]
+    },
+    {
+        "name": "Casual Blue Cotton Trousers",
+        "description": "Comfortable blue cotton trousers suitable for everyday wear.",
+        "price": 34.99,
+        "keyword": ["casual", "cotton", "blue"]
+    },
+    {
+        "name": "Denim Vest",
+        "description": "A stylish denim vest that adds a rugged touch to any outfit.",
+        "price": 29.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Blue Casual Hoodie",
+        "description": "A casual blue hoodie perfect for cool weather.",
+        "price": 32.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White Cotton Tank Top",
+        "description": "A basic white tank top made from breathable cotton.",
+        "price": 12.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Shorts",
+        "description": "Comfortable and durable denim shorts for a casual look.",
+        "price": 29.99,
+        "keyword": ["denim", "casual"]
+    },
+    {
+        "name": "Casual Blue Sweater",
+        "description": "A cozy blue sweater perfect for casual outings.",
+        "price": 39.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White T-Shirt with Logo",
+        "description": "A stylish white t-shirt featuring a bold logo.",
+        "price": 22.99,
+        "keyword": ["t-shirt", "white"]
+    },
+    {
+        "name": "Denim Jeans",
+        "description": "Classic denim jeans that offer a timeless look.",
+        "price": 49.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Blue Cotton Dress",
+        "description": "A light and breezy blue cotton dress perfect for warm days.",
+        "price": 44.99,
+        "keyword": ["cotton", "blue"]
+    },
+    {
+        "name": "White Casual Sneakers",
+        "description": "Comfortable white sneakers that pair well with any outfit.",
+        "price": 59.99,
+        "keyword": ["casual", "white"]
+    },
+    {
+        "name": "Denim Jacket with Patches",
+        "description": "A unique denim jacket featuring trendy patches.",
+        "price": 64.99,
+        "keyword": ["denim", "jacket"]
+    },
+    {
+        "name": "Casual Blue Button-Up Shirt",
+        "description": "A casual blue button-up shirt that is both stylish and comfortable.",
+        "price": 34.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White Cotton Cardigan",
+        "description": "A soft and lightweight white cotton cardigan.",
+        "price": 29.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Cap",
+        "description": "A trendy denim cap to complete your casual look.",
+        "price": 19.99,
+        "keyword": ["denim", "casual"]
+    },
+    {
+        "name": "Blue Casual Sweatpants",
+        "description": "Comfortable blue sweatpants for lounging or light exercise.",
+        "price": 29.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White Cotton Shorts",
+        "description": "Light and comfortable white cotton shorts for warm weather.",
+        "price": 24.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Overalls with Straps",
+        "description": "Classic denim overalls with adjustable straps for a perfect fit.",
+        "price": 49.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Casual Blue Graphic Tee",
+        "description": "A casual blue t-shirt featuring a cool graphic design.",
+        "price": 24.99,
+        "keyword": ["casual", "t-shirt", "blue"]
+    },
+    {
+        "name": "White Cotton Blouse",
+        "description": "A chic white cotton blouse suitable for work or casual outings.",
+        "price": 34.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Jacket with Fur Lining",
+        "description": "A warm denim jacket with a soft fur lining for extra comfort.",
+        "price": 69.99,
+        "keyword": ["denim", "jacket"]
+    },
+    {
+        "name": "Blue Casual Polo Shirt",
+        "description": "A versatile blue polo shirt for casual or semi-formal settings.",
+        "price": 24.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White T-Shirt with Stripes",
+        "description": "A trendy white t-shirt featuring horizontal stripes.",
+        "price": 21.99,
+        "keyword": ["t-shirt", "white"]
+    },
+    {
+        "name": "Denim Midi Skirt",
+        "description": "A fashionable denim midi skirt that can be dressed up or down.",
+        "price": 39.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Casual Blue Hoodie with Zipper",
+        "description": "A casual blue hoodie with a front zipper for easy wear.",
+        "price": 34.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White Cotton Scarf",
+        "description": "A soft and lightweight white cotton scarf for any season.",
+        "price": 19.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Jacket with Hoodie",
+        "description": "A stylish denim jacket featuring an attached hoodie.",
+        "price": 59.99,
+        "keyword": ["denim", "jacket"]
+    },
+    {
+        "name": "Blue Casual Joggers",
+        "description": "Comfortable blue joggers perfect for casual outings or workouts.",
+        "price": 34.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White T-Shirt with Pocket",
+        "description": "A classic white t-shirt featuring a convenient front pocket.",
+        "price": 17.99,
+        "keyword": ["t-shirt", "white"]
+    },
+    {
+        "name": "Denim Vest with Pockets",
+        "description": "A functional denim vest featuring multiple pockets.",
+        "price": 34.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Casual Blue Denim Shorts",
+        "description": "Stylish and comfortable blue denim shorts for a laid-back look.",
+        "price": 29.99,
+        "keyword": ["denim", "casual", "blue"]
+    },
+    {
+        "name": "White Cotton Tunic",
+        "description": "A loose-fitting white cotton tunic for a relaxed and chic look.",
+        "price": 39.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Jacket with Embroidery",
+        "description": "A unique denim jacket featuring intricate embroidery.",
+        "price": 69.99,
+        "keyword": ["denim", "jacket"]
+    },
+    {
+        "name": "Blue Casual Henley Shirt",
+        "description": "A comfortable blue henley shirt with a casual vibe.",
+        "price": 29.99,
+        "keyword": ["casual", "blue"]
+    },
+    {
+        "name": "White T-Shirt with V-Neck",
+        "description": "A classic white t-shirt with a stylish V-neckline.",
+        "price": 18.99,
+        "keyword": ["t-shirt", "white"]
+    },
+    {
+        "name": "Denim Cargo Pants",
+        "description": "Durable denim cargo pants with plenty of storage space.",
+        "price": 44.99,
+        "keyword": ["denim"]
+    },
+    {
+        "name": "Casual Blue Cotton Blazer",
+        "description": "A stylish blue cotton blazer for a smart-casual look.",
+        "price": 59.99,
+        "keyword": ["casual", "cotton", "blue"]
+    },
+    {
+        "name": "White Cotton Baseball Cap",
+        "description": "A trendy white cotton baseball cap for a casual outfit.",
+        "price": 19.99,
+        "keyword": ["cotton", "white"]
+    },
+    {
+        "name": "Denim Jacket with Studs",
+        "description": "A bold denim jacket featuring metallic studs for an edgy look.",
+        "price": 69.99,
+        "keyword": ["denim", "jacket"]
+    }
+]

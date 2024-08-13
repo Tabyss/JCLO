@@ -1,11 +1,13 @@
+import Navbar from "./pages/Home/components/Navbar";
 import Router from "./Router";
 
 function App() {
-  return (
-    <>
-      <Router />
-    </>
-  );
+    return (
+        <>
+            {/* <Navbar /> */}
+            <Router />
+        </>
+    );
 }
 
 export default App;
